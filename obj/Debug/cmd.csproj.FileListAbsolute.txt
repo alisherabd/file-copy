@@ -1,0 +1,5 @@
+C:\Users\dbsupport\Desktop\cmd\cmd\cmd\bin\Debug\cmd.exe
+C:\Users\dbsupport\Desktop\cmd\cmd\cmd\bin\Debug\cmd.pdb
+C:\Users\dbsupport\Desktop\cmd\cmd\cmd\obj\Debug\cmd.exe
+C:\Users\dbsupport\Desktop\cmd\cmd\cmd\obj\Debug\cmd.pdb
+C:\Users\dbsupport\Desktop\cmd\cmd\cmd\obj\Debug\cmd.csprojResolveAssemblyReference.cache
